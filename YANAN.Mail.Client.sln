@@ -1,0 +1,53 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YANAN.Mail.Client", "YANAN.Mail.Client\YANAN.Mail.Client.csproj", "{01640C1D-ED5B-4041-9A9C-63B133FD7A5D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YANAN.Mail.Services", "YANAN.Mail.Services\YANAN.Mail.Services.csproj", "{50F35804-44B9-40DD-AAB1-17D983792A85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YANAN.Mail.Entity", "YANAN.Mail.Entity\YANAN.Mail.Entity.csproj", "{2B25B9DD-33E4-4D8C-B740-95A44A5B35EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YANAN.Mail.Utilities", "YANAN.Mail.Utilities\YANAN.Mail.Utilities.csproj", "{57E38BCF-F19A-4BC3-8D79-04C0717645F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YANAN.Mail.Core", "YANAN.Mail.Core\YANAN.Mail.Core.csproj", "{CDB15AF4-C01A-4E05-9BD9-639BD5DCDDB9}"
+EndProject
+Global
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01640C1D-ED5B-4041-9A9C-63B133FD7A5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01640C1D-ED5B-4041-9A9C-63B133FD7A5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01640C1D-ED5B-4041-9A9C-63B133FD7A5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01640C1D-ED5B-4041-9A9C-63B133FD7A5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50F35804-44B9-40DD-AAB1-17D983792A85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50F35804-44B9-40DD-AAB1-17D983792A85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50F35804-44B9-40DD-AAB1-17D983792A85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50F35804-44B9-40DD-AAB1-17D983792A85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B25B9DD-33E4-4D8C-B740-95A44A5B35EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B25B9DD-33E4-4D8C-B740-95A44A5B35EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B25B9DD-33E4-4D8C-B740-95A44A5B35EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B25B9DD-33E4-4D8C-B740-95A44A5B35EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57E38BCF-F19A-4BC3-8D79-04C0717645F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57E38BCF-F19A-4BC3-8D79-04C0717645F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57E38BCF-F19A-4BC3-8D79-04C0717645F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57E38BCF-F19A-4BC3-8D79-04C0717645F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDB15AF4-C01A-4E05-9BD9-639BD5DCDDB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDB15AF4-C01A-4E05-9BD9-639BD5DCDDB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDB15AF4-C01A-4E05-9BD9-639BD5DCDDB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDB15AF4-C01A-4E05-9BD9-639BD5DCDDB9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB1BEE19-3124-4B49-B13C-7CA62302FB25}
+	EndGlobalSection
+EndGlobal
